@@ -1,2 +1,3 @@
 # Bank-data-analysis
-Bank data analysis using Pandas, NumPy and Matplotlib
+## Project overview 
+## This project analyzes bank data using Pandas, NumPy and Matplotlib.
