@@ -37,6 +37,9 @@ Python | Pandas | NumPy | Matplotlib | CSV
 •The main objective is to analyze customer age, account balance, credit score, and city-wise banking data and identify useful patterns and insights using Python.
  
 **Project Type: Banking Data Analysis Project**
+
 **Language: Python**
+
 **Storage: CSV File**
+
 **Libraries: Pandas, NumPy, Matplotlib**
